@@ -1,0 +1,6 @@
+{
+  "name": "Bridger Western - Value List & Tier List Roblox",
+  "description": "Lista de valores oficiais, tier list (S+ a D), skins, cartas passivas e itens removidos para o jogo Bridger: Western do Roblox.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
